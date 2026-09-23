@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Pauls Måleri & Tapet',
+	'bransch'        => 'Målare',
 	'telefon'        => '076-200 86 90',
 	'telefon_tel'    => '+46762008690',
 	'ort'            => 'Upplands Väsby',
